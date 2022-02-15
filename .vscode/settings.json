@@ -1,0 +1,8 @@
+{
+    "editor.fontSize" : 16,
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on",
+    "code-runner.executorMap": {
+        "python": "D:\\Users\\Desktop\\python\\learn_python\\John_ortiz\\cursos\\.vscode\\settings.json && python -u",
+    }
+}
